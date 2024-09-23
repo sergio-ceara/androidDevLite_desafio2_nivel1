@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">desafio2_nivel1_teste1</string>
+    <dimen name="text_head_size_small">14sp</dimen>
+    <string name="txtHeader2">AndroidDev Lite:</string>
+    <string name="txtHeader3">Desafio 2</string>
+    <string name="txtHeader4">nível 1:</string>
+    <string name="txtHeader5">Matrícula de alunos</string>
+    <string name="txtHeader6">aluno:</string>
+    <string name="txtHeader7">Paulo Sérgio Ferreira de Sousa</string>
+    <string name="txtNameHint">Nome</string>
+    <string name="txtName">Nome do aluno</string>
+    <string name="txtClassHint">Digite o turno</string>
+    <string name="txtClass">Turno</string>
+    <string name="txtNoteHint">Digite a nota</string>
+    <string name="txtNote">Nota</string>
+    <string name="txtButtonAdd">Adicionar Nota</string>
+    <string name="txtButtonConsult">Consultar Aluno</string>
+    <string name="txtMessage">informações aqui...</string>
+</resources>
